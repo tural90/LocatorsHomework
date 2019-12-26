@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3788a70c-1142-41ff-a215-b8f4342549c2" name="Default Changelist" comment="" />
+    <list default="true" id="3788a70c-1142-41ff-a215-b8f4342549c2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +28,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1VRiegiftkwY7fpumFllAphijS0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,7 +36,20 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Google">
+    <configuration name="Google" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.Google" />
+      <module name="LocatorsHomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LocatorsHomework1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.LocatorsHomework1" />
       <module name="LocatorsHomework" />
@@ -45,6 +65,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Google" />
         <item itemvalue="Application.LocatorsHomework1" />
       </list>
     </recent_temporary>
@@ -75,21 +96,38 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1577226224512">
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1577329544588">
+      <screen x="0" y="23" width="1280" height="685" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800/-1920.-710.1920.1080@0.0.1280.800" timestamp="1577329412687" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800/777.-1080.1920.1080@0.0.1280.800" timestamp="1577229669871" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.23.1280.685/-1920.-687.1920.1057@0.23.1280.685" timestamp="1577329544588" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.23.1280.685/777.-1057.1920.1057@0.23.1280.685" timestamp="1577228918927" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1577329544583">
+      <screen x="0" y="23" width="1280" height="685" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800/-1920.-710.1920.1080@0.0.1280.800" timestamp="1577329412684" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800/777.-1080.1920.1080@0.0.1280.800" timestamp="1577229669868" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.23.1280.685/-1920.-687.1920.1057@0.23.1280.685" timestamp="1577329544583" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.23.1280.685/777.-1057.1920.1057@0.23.1280.685" timestamp="1577228918924" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1577329544581">
+      <screen x="0" y="23" width="1280" height="685" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800/-1920.-710.1920.1080@0.0.1280.800" timestamp="1577329412682" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800/777.-1080.1920.1080@0.0.1280.800" timestamp="1577229669867" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.23.1280.685/-1920.-687.1920.1057@0.23.1280.685" timestamp="1577329544581" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.23.1280.685/777.-1057.1920.1057@0.23.1280.685" timestamp="1577228918922" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1577329544587">
+      <screen x="0" y="23" width="1280" height="685" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800/-1920.-710.1920.1080@0.0.1280.800" timestamp="1577329412686" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800/777.-1080.1920.1080@0.0.1280.800" timestamp="1577229669870" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.23.1280.685/-1920.-687.1920.1057@0.23.1280.685" timestamp="1577329544587" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.23.1280.685/777.-1057.1920.1057@0.23.1280.685" timestamp="1577228918926" />
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1577329572678">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800/777.-1080.1920.1080@0.0.1280.800" timestamp="1577226224512" />
-    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1577226224509">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800/777.-1080.1920.1080@0.0.1280.800" timestamp="1577226224509" />
-    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1577226224507">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800/777.-1080.1920.1080@0.0.1280.800" timestamp="1577226224507" />
-    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1577226224511">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800/777.-1080.1920.1080@0.0.1280.800" timestamp="1577226224511" />
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800/-1920.-710.1920.1080@0.0.1280.800" timestamp="1577329572678" />
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800/777.-1080.1920.1080@0.0.1280.800" timestamp="1577226327162" />
   </component>
 </project>
